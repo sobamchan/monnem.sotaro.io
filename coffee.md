@@ -5,6 +5,6 @@ title: "coffee"
 
 # Coffee
 
-- [AGÁTA](https://agata-kaffee.de/)A
+- [AGÁTA](https://agata-kaffee.de/)
   - Good coffee
   - Cozy environment
