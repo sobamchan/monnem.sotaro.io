@@ -14,6 +14,7 @@ Maintained list of places to eat in our lovely city.
 - [lunch](./lunch)
 - [dinner](./dinner)
 - [alcohol](./alcohol)
+- [brunch](./brunch)
 
 
 # Contributions
