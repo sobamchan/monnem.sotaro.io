@@ -10,6 +10,7 @@ title: "Monnem"
 Maintained list of places to eat in our lovely city.
 
 - [coffee](./coffee)
+- [sweet](./sweet)
 - [lunch](./lunch)
 - [dinner](./dinner)
 - [alcohol](./alcohol)
