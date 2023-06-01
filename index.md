@@ -3,7 +3,9 @@ layout: default
 title: "Monnem"
 ---
 
-# Food in Monnem
+# Monnem
+
+<img src="/assets/img/monnem.jpeg"  width="80%" >
 
 Maintained list of places to eat in our lovely city.
 

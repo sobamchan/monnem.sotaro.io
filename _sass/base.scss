@@ -7,3 +7,10 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
+
+main {
+    display: flex;
+    max-width: 50rem;
+    margin: auto;
+    flex-direction: column;
+}
