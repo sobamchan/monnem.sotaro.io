@@ -3,9 +3,11 @@ layout: default
 title: "Monnem"
 ---
 
-# Monnem
 
-<img src="/assets/img/monnem.jpeg"  width="80%" >
+<center>
+  <h1>Monnem</h1>
+  <img src="/assets/img/monnem.jpeg"  width="80%" >
+</center>
 
 Maintained list of places to eat in our lovely city.
 
