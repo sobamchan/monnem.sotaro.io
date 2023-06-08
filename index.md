@@ -11,6 +11,8 @@ title: "Monnem"
 
 Maintained list of places to eat in our lovely city.
 
+I have been more than twice to all the listed place to see if they can consistently provide good foods.
+
 - [coffee](./coffee)
 - [sweet](./sweet)
 - [lunch](./lunch)
