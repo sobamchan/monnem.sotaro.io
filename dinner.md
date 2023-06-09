@@ -19,6 +19,9 @@ title: "dinner"
 - [YEnat](https://goo.gl/maps/55CwTc3DPeAgmKk77)
   - Ethiopian restaurant
   - I don’t know their main dish is called but it’s very good and recommended for a nice small group gathering.
+- [Henriette Burger Bar](https://www.henriette-burger-bar.de/)
+  - Probably the burger in the city
+  - Variety of sause for chips
 - [Pita pita](https://www.pitapitagrillstore-mannheim.de/)
   - No tables, only take aways
   - Better to pre-order online
