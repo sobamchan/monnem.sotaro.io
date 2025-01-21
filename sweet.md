@@ -5,6 +5,7 @@ title: "sweet"
 
 # Sweet
 
-- [The Donut Lab](https://www.thedonutlab.de/)
+- ~~[The Donut Lab](https://www.thedonutlab.de/)~~
   - Good donuts
   - Perfect for researchers
+  - Unfortunatelly, it is closed.
