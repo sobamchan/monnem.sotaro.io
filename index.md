@@ -9,7 +9,7 @@ title: "Monnem"
   <img src="/assets/img/monnem.jpeg"  width="80%" >
 </center>
 
-Maintained list of places to eat in our lovely city.
+Maintained list of places to eat in our lovely city. Monnem can get [pretty](./pretty) or [real](./real). It is a special place.
 
 I have been more than twice to all the listed place to see if they can consistently provide good foods.
 Orders in each list may mean something.
