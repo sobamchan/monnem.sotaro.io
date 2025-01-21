@@ -12,6 +12,7 @@ title: "Monnem"
 Maintained list of places to eat in our lovely city.
 
 I have been more than twice to all the listed place to see if they can consistently provide good foods.
+Orders in each list may mean something.
 
 - [coffee](./coffee)
 - [sweet](./sweet)
