@@ -3,7 +3,7 @@ layout: default
 title: "real monnem"
 ---
 
-Some highlights on when Monnem gets real.
+When Monnem gets real (it can also be [pretty](./pretty))
 
 ![](https://i.imgur.com/ZthQdTo.jpeg)
 

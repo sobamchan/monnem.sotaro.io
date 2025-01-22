@@ -3,7 +3,7 @@ layout: default
 title: "pretty monnem"
 ---
 
-Some highlights on when Monnem is pretty.
+When Monnem is pretty (it can get [real](./real) as well.)
 
 
 ![](https://i.imgur.com/xqkXj0K.jpeg)
