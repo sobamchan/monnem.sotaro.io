@@ -5,6 +5,9 @@ title: "dinner"
 
 # Dinner
 
+- [Cafe EO](https://www.uni-mannheim.de/news/cafe-eo-wiedereroeffnet/)
+  - University run cafe which serves cheap beers and wines.
+  - Not so much options for food, but currywurst is an efficient option.
 - [Pizzeria Papi](https://goo.gl/maps/6EBW2dhEvvrQ5HgF7)
   - Italian restaurant
   - Music is little too loud, not recommended if you want to discuss deep philosophical topics with your friends
