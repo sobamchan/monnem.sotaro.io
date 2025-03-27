@@ -36,6 +36,11 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
+        uses: actions/upload-artifact@v3  # Explicitly include this action
+        with:
+          name: site
+          path: ./_site
+      - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v1
 
   # Deployment job
